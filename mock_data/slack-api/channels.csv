@@ -1,0 +1,9 @@
+channel_id,name,topic,member_count,created_at
+CH-S01,general,General chat,15,2024-09-01T10:00:00Z
+CH-S02,apartment-stuff,Apartment logistics with Hannah,2,2025-08-01T10:00:00Z
+CH-S10,project-0,Group project,4,2026-01-01T10:00:00Z
+CH-S11,project-1,Group project,4,2026-01-01T10:00:00Z
+CH-S12,project-2,Group project,4,2026-01-01T10:00:00Z
+CH-S13,project-3,Group project,4,2026-01-01T10:00:00Z
+CH-S14,project-4,Group project,4,2026-01-01T10:00:00Z
+CH-S15,project-5,Group project,4,2026-01-01T10:00:00Z

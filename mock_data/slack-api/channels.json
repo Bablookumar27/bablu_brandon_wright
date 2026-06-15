@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "channels": [
+    {
+      "id": "C0123450",
+      "name": "cohort-chat"
+    },
+    {
+      "id": "C0123451",
+      "name": "random"
+    }
+  ]
+}

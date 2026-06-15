@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "members": [
+    {
+      "id": "U0123450",
+      "name": "Hannah",
+      "profile": {
+        "real_name": "Hannah"
+      }
+    },
+    {
+      "id": "U0123451",
+      "name": "Brandon Wright",
+      "profile": {
+        "real_name": "Brandon Wright"
+      }
+    }
+  ]
+}

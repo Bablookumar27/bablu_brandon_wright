@@ -1,0 +1,11 @@
+channel_id,name,topic,member_count,created_at
+CH-D01,general,General nursing cohort discussion,45,2024-09-01T10:00:00Z
+CH-D02,patho-study,Pathophysiology study group,12,2025-01-15T12:00:00Z
+CH-D03,clinical-venting,Vent about clinicals,45,2025-09-01T10:00:00Z
+CH-D04,ski-club-logistics,Rides to races,8,2024-11-01T10:00:00Z
+CH-D10,random-0,Random stuff,20,2025-05-01T10:00:00Z
+CH-D11,random-1,Random stuff,20,2025-05-01T10:00:00Z
+CH-D12,random-2,Random stuff,20,2025-05-01T10:00:00Z
+CH-D13,random-3,Random stuff,20,2025-05-01T10:00:00Z
+CH-D14,random-4,Random stuff,20,2025-05-01T10:00:00Z
+CH-D15,random-5,Random stuff,20,2025-05-01T10:00:00Z

@@ -1,0 +1,9 @@
+{
+  "kind": "calendar#settings",
+  "items": [
+    {
+      "id": "timezone",
+      "value": "America/New_York"
+    }
+  ]
+}

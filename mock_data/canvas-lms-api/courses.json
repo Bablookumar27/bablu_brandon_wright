@@ -1,0 +1,12 @@
+[
+  {
+    "id": 101,
+    "name": "History of Nursing 101",
+    "course_code": "NUR101"
+  },
+  {
+    "id": 102,
+    "name": "Biology 202",
+    "course_code": "BIO202"
+  }
+]

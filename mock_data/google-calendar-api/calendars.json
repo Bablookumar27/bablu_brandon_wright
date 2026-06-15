@@ -1,0 +1,10 @@
+{
+  "kind": "calendar#calendarList",
+  "items": [
+    {
+      "id": "primary",
+      "summary": "Primary Calendar",
+      "timeZone": "America/New_York"
+    }
+  ]
+}

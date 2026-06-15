@@ -1,0 +1,17 @@
+[
+  {
+    "id": "900000",
+    "name": "general",
+    "type": 0
+  },
+  {
+    "id": "900001",
+    "name": "gaming",
+    "type": 0
+  },
+  {
+    "id": "900002",
+    "name": "memes",
+    "type": 0
+  }
+]

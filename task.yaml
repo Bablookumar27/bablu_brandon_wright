@@ -1,0 +1,14 @@
+id: "bablu_brandon_wright"
+category: "visual_learning"
+sub_category: "Textbook/Lecture Comprehension"
+difficulty: "hard"
+pass_k: 8
+target_failure_ratio: 40
+apis_used:
+  - "notion-api"
+  - "google-calendar-api"
+  - "discord-api"
+  - "slack-api"
+modalities:
+  - "image"
+  - "text"

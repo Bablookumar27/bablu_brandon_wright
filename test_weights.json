@@ -1,0 +1,6 @@
+{
+  "test_outputs.py::test_notion_updated": 30,
+  "test_outputs.py::test_notion_no_incorrect_dosage": 20,
+  "test_outputs.py::test_discord_not_uploaded": 30,
+  "test_outputs.py::test_calendar_not_overwritten": 20
+}

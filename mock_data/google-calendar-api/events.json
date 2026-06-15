@@ -1,0 +1,669 @@
+{
+  "kind": "calendar#events",
+  "items": [
+    {
+      "kind": "calendar#event",
+      "id": "ev0",
+      "summary": "Lunch",
+      "start": {
+        "dateTime": "2026-10-14T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-14T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev1",
+      "summary": "Lunch",
+      "start": {
+        "dateTime": "2026-10-02T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-02T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev2",
+      "summary": "Gym",
+      "start": {
+        "dateTime": "2026-10-19T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-19T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev3",
+      "summary": "Study Session",
+      "start": {
+        "dateTime": "2026-10-15T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-15T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev4",
+      "summary": "Study Session",
+      "start": {
+        "dateTime": "2026-10-20T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-20T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev5",
+      "summary": "Study Session",
+      "start": {
+        "dateTime": "2026-10-12T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-12T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev6",
+      "summary": "Gym",
+      "start": {
+        "dateTime": "2026-10-05T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-05T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev7",
+      "summary": "Gym",
+      "start": {
+        "dateTime": "2026-10-21T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-21T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev8",
+      "summary": "Lunch",
+      "start": {
+        "dateTime": "2026-10-06T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-06T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev9",
+      "summary": "Study Session",
+      "start": {
+        "dateTime": "2026-10-02T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-02T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev10",
+      "summary": "Lunch",
+      "start": {
+        "dateTime": "2026-10-28T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-28T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev11",
+      "summary": "Gym",
+      "start": {
+        "dateTime": "2026-10-11T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-11T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev12",
+      "summary": "Gym",
+      "start": {
+        "dateTime": "2026-10-17T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-17T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev13",
+      "summary": "Lunch",
+      "start": {
+        "dateTime": "2026-10-16T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-16T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev14",
+      "summary": "Gym",
+      "start": {
+        "dateTime": "2026-10-13T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-13T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev15",
+      "summary": "Gym",
+      "start": {
+        "dateTime": "2026-10-11T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-11T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev16",
+      "summary": "Study Session",
+      "start": {
+        "dateTime": "2026-10-02T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-02T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev17",
+      "summary": "Lunch",
+      "start": {
+        "dateTime": "2026-10-03T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-03T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev18",
+      "summary": "Gym",
+      "start": {
+        "dateTime": "2026-10-16T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-16T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev19",
+      "summary": "Lunch",
+      "start": {
+        "dateTime": "2026-10-28T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-28T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev20",
+      "summary": "Gym",
+      "start": {
+        "dateTime": "2026-10-12T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-12T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev21",
+      "summary": "Gym",
+      "start": {
+        "dateTime": "2026-10-02T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-02T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev22",
+      "summary": "Study Session",
+      "start": {
+        "dateTime": "2026-10-01T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-01T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev23",
+      "summary": "Study Session",
+      "start": {
+        "dateTime": "2026-10-11T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-11T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev24",
+      "summary": "Gym",
+      "start": {
+        "dateTime": "2026-10-23T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-23T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev25",
+      "summary": "Lunch",
+      "start": {
+        "dateTime": "2026-10-17T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-17T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev26",
+      "summary": "Lunch",
+      "start": {
+        "dateTime": "2026-10-02T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-02T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev27",
+      "summary": "Lunch",
+      "start": {
+        "dateTime": "2026-10-03T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-03T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev28",
+      "summary": "Lunch",
+      "start": {
+        "dateTime": "2026-10-14T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-14T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev29",
+      "summary": "Lunch",
+      "start": {
+        "dateTime": "2026-10-14T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-14T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev30",
+      "summary": "Lunch",
+      "start": {
+        "dateTime": "2026-10-07T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-07T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev31",
+      "summary": "Lunch",
+      "start": {
+        "dateTime": "2026-10-22T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-22T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev32",
+      "summary": "Lunch",
+      "start": {
+        "dateTime": "2026-10-13T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-13T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev33",
+      "summary": "Study Session",
+      "start": {
+        "dateTime": "2026-10-15T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-15T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev34",
+      "summary": "Study Session",
+      "start": {
+        "dateTime": "2026-10-25T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-25T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev35",
+      "summary": "Gym",
+      "start": {
+        "dateTime": "2026-10-07T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-07T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev36",
+      "summary": "Gym",
+      "start": {
+        "dateTime": "2026-10-24T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-24T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev37",
+      "summary": "Lunch",
+      "start": {
+        "dateTime": "2026-10-02T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-02T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev38",
+      "summary": "Lunch",
+      "start": {
+        "dateTime": "2026-10-20T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-20T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev39",
+      "summary": "Gym",
+      "start": {
+        "dateTime": "2026-10-06T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-06T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev40",
+      "summary": "Gym",
+      "start": {
+        "dateTime": "2026-10-05T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-05T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev41",
+      "summary": "Study Session",
+      "start": {
+        "dateTime": "2026-10-12T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-12T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev42",
+      "summary": "Study Session",
+      "start": {
+        "dateTime": "2026-10-19T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-19T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev43",
+      "summary": "Gym",
+      "start": {
+        "dateTime": "2026-10-12T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-12T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev44",
+      "summary": "Study Session",
+      "start": {
+        "dateTime": "2026-10-01T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-01T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev45",
+      "summary": "Gym",
+      "start": {
+        "dateTime": "2026-10-24T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-24T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev46",
+      "summary": "Study Session",
+      "start": {
+        "dateTime": "2026-10-07T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-07T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev47",
+      "summary": "Gym",
+      "start": {
+        "dateTime": "2026-10-24T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-24T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev48",
+      "summary": "Lunch",
+      "start": {
+        "dateTime": "2026-10-14T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-14T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "ev49",
+      "summary": "Lunch",
+      "start": {
+        "dateTime": "2026-10-06T10:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-06T11:00:00-05:00",
+        "timeZone": "America/New_York"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "EV-101",
+      "summary": "Clinical Rotation",
+      "start": {
+        "dateTime": "2026-10-15T09:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-15T15:00:00-05:00",
+        "timeZone": "America/New_York"
+      },
+      "description": "Mandatory rotation at Mercy Hospital."
+    }
+  ]
+}
